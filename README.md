@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=221DF7&background=CC47FF00&vCenter=true&width=435&lines=Hi+I%E2%80%99m+Monzzzz+;Backend+Engineer+%7C+.NET%2C++NodeJs+;Passionate+about+React+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=221DF7&background=CC47FF00&vCenter=true&width=435&lines=Hi+I%E2%80%99m+Monzzzz+;Backend+Engineer+%7C+.NET%2C++NodeJs+;Passionate+about+React+projects+and+Fullstack+Projects)](https://git.io/typing-svg)
 
 ---
 
@@ -20,8 +20,8 @@
 ---
 
 ## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monzzzz22&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monzzzz22&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbduallahMonzer&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduallahMonzer&layout=compact)
 
 ---
 
